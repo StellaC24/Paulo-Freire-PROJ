@@ -1,6 +1,6 @@
 # PAULO FREIRE
 
-![logo](.//eletrÔnica%20(1).png)
+![logo](https://github.com/StellaC24/Paulo-Freire-PROJ/issues/1#issue-2290571382)
 Projeto segundo eletrônica para semana Paulo Freire (2024).
 
 ## ÍNDICES
