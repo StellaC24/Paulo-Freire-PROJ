@@ -1,6 +1,6 @@
 # PAULO FREIRE
 
-![logo](.//foto-stella)
+![logo](.//eletrÔnica%20(1).png )
 Projeto segundo eletrônica para semana Paulo Freire (2024).
 
 ## ÍNDICES
